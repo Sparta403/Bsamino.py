@@ -1,5 +1,4 @@
-# Library In Development created by LilZevi
-# I have not tested some functions.
+#Kratos
 import requests
 import json
 import time
