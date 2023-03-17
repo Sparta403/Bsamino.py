@@ -1,5 +1,5 @@
-# AminoLab
-BSAmino Api
+
+#BSAmino Api
 github link >>https://t.me/spi22der
 ### Example
 ```python3
