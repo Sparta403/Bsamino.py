@@ -12,8 +12,7 @@ setup(
     license = 'SFAH',
     author = 'Kratos',
     author_email = 'dyam1487@gmail.com',
-    description = .'His library is based on the development of Amino scripts by Kratos and the SFAH',
-    long_description = long_description,
+    description = .'BSAMINO PILUS ',
     long_description_content_type = 'text/markdown',
     keywords = [
         'aminoapps',
